@@ -12,8 +12,7 @@ Repository for Bangkit 2023 Capstone project. Our team consist of 3 Machine Lear
 Animalink is an app 
 
 ## Our Models
-Animalink has 1 models, an image classification for classifying rare animal. <br />
-![image]()
+Animalink has only 1 models, namely an image classification for classifying rare animal. <br />
 ![image]() <br /><br />
 
 Our ripeness classification were trained on 3000 images for 10 different classes, achieving roughly 94% validation accuracy. <br />
