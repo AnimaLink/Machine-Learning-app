@@ -9,7 +9,7 @@ Repository for Bangkit 2023 Capstone project. Our team consist of 3 Machine Lear
 |   Alvin Ryan Dana    |  M296BSY0332  |  Machine Learning |
 
 ## What's Animalink?
-Animalink is an app 
+Animalink is a revolutionary application that seamlessly integrates a bustling marketplace with cutting-edge technology. Created for animal enthusiasts, Animalink offers an immersive experience, connecting users through a dynamic forum and creating a safe place by pioneering rare species detection features. 
 
 ## Our Models
 Animalink has only 1 models, namely an image classification for classifying rare animal. <br />
