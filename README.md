@@ -16,7 +16,7 @@ Animalink has only 1 models, namely an image classification for classifying rare
 ![image]() <br /><br />
 
 Our ripeness classification were trained on 3000 images for 10 different classes, achieving roughly 94% validation accuracy. <br />
-<img src=""  width="300" height="300"><br /><br />
+<img src="https://github.com/AnimaLink/Machine-Learning-app/assets/91884661/4e4df06d-207f-4bcc-a58b-a438d09e5dbe"  width="600" height="600"><br /><br />
 
 ## Rare animal Classification
 
