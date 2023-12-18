@@ -1,5 +1,5 @@
 # Animalink Machine Learning
-<img src=""  width="250" height="250"><br /><br />
+![logo_dummy_splashscreen_home_android_full_ultra_hd_vector_animalink_icon_register_login](https://github.com/AnimaLink/Machine-Learning-app/assets/91884661/71e483f7-e112-4151-9f30-97c96faac61c)
 Repository for Bangkit 2023 Capstone project. Our team consist of 3 Machine Learning. <br />
 
 |          Nama         | Bangkit-ID |       Path       |
