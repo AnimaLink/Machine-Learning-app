@@ -13,7 +13,7 @@ Animalink is a revolutionary application that seamlessly integrates a bustling m
 
 ## Our Models
 Animalink has only 1 models, namely an image classification for classifying rare animal. <br />
-![image]() <br /><br />
+<img src="https://github.com/AnimaLink/Machine-Learning-app/assets/91884661/99b70b64-bcc6-4a6f-b87d-2172e3f1358b"  width="auto" height="auto">
 
 Our ripeness classification were trained on 3000 images for 10 different classes, achieving roughly 94% validation accuracy. <br />
 
